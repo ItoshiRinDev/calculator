@@ -1,1 +1,1 @@
- link: https://itoshirindev.github.io/calculator/
+ссылка: https://itoshirindev.github.io/calculator/
